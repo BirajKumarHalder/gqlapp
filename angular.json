@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "gqlapp"
+  "defaultProject": "gqlapp",
+  "cli": {
+    "analytics": false
+  }
 }
